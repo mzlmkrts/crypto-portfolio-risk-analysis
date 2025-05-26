@@ -4,6 +4,13 @@ This project fetches two years of daily price data for the top 20 USDT-paired cr
 
 Please see image file for the output!
 
+## Visual Output
+
+The following plot shows the clustered correlation matrix with a dendrogram based on Ward’s method:
+
+![Clustered Correlation Heatmap](clustered_correlation.jpeg)
+
+
 ## Methodology & Insights
 
 This project applies **hierarchical clustering** using **Ward’s linkage method** to explore the interdependence among major cryptocurrencies based on their daily returns over the past two years.
