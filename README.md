@@ -8,7 +8,7 @@ Please see image file for the output!
 
 This dendrogram shows how the top 20 cryptocurrencies cluster based on Pearson correlation of daily returns:
 
-![Clustered Correlation Heatmap](https://raw.githubusercontent.com/mzlmkrts/crypto-portfolio-risk-analysis/main/clustered_correlation.jpeg)
+![Clustered Correlation Heatmap](https://raw.githubusercontent.com/mzlmkrts/crypto-portfolio-risk-analysis/main/clustered_correlation.png)
 
 
 ## Methodology & Insights
