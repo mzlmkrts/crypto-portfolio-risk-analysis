@@ -4,11 +4,11 @@ This project fetches two years of daily price data for the top 20 USDT-paired cr
 
 Please see image file for the output!
 
-## Visual Output
+## Clustered Correlation Heatmap
 
-The following plot shows the clustered correlation matrix with a dendrogram based on Ward’s method:
+This dendrogram shows how the top 20 cryptocurrencies cluster based on Pearson correlation of daily returns:
 
-![Clustered Correlation Heatmap](clustered_correlation.jpeg)
+![Clustered Correlation Heatmap](https://raw.githubusercontent.com/mzlmkrts/crypto-portfolio-risk-analysis/main/clustered_correlation.jpeg)
 
 
 ## Methodology & Insights
