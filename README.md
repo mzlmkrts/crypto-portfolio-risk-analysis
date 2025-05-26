@@ -11,6 +11,7 @@ This dendrogram shows how the top 20 cryptocurrencies cluster based on Pearson c
 ![Clustered Correlation Heatmap](https://raw.githubusercontent.com/mzlmkrts/crypto-portfolio-risk-analysis/main/clustered_correlation.png)
 
 
+
 ## Methodology & Insights
 
 This project applies **hierarchical clustering** using **Ward’s linkage method** to explore the interdependence among major cryptocurrencies based on their daily returns over the past two years.
